@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a MCA student at Dibrugarh Unversity.
 - 📚 I’m currently learning  Mobile app development using flutter. 
-- 📫 How to reach me:  [Gmail](rbharali3@gmail.com)
+- 📫 How to reach me:  [Gmail](mailto:rbharali3@gmail.com)
 
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
